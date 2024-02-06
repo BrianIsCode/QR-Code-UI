@@ -1,0 +1,1 @@
+This was just a simple HTML/CSS project to try out some of the resources on Frontend Mentor. It's not very complex at all, and I didn't implement the flex-box in the best way, but it is responsive on mobile and matched the design assignment well.
